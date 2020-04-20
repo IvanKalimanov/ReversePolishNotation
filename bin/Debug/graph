@@ -1,0 +1,7 @@
+digraph G {
+0 [fontname="Calibri",  fontsize=11, shape=circle, label="+"];
+1 [fontname="Calibri",  fontsize=11, shape=circle, label="1,1"];
+2 [fontname="Calibri",  fontsize=11, shape=circle, label="1"];
+0 -> 1 [ dir="none", fontname="Calibri",  fontsize=8];
+0 -> 2 [ dir="none", fontname="Calibri",  fontsize=8];
+}

@@ -1,0 +1,19 @@
+digraph G {
+0 [fontname="Calibri",  fontsize=11, shape=circle, label="+"];
+1 [fontname="Calibri",  fontsize=11, shape=circle, label="sin"];
+2 [fontname="Calibri",  fontsize=11, shape=circle, label="9"];
+3 [fontname="Calibri",  fontsize=11, shape=circle, label="-"];
+4 [fontname="Calibri",  fontsize=11, shape=circle, label="67"];
+5 [fontname="Calibri",  fontsize=11, shape=circle, label="-"];
+6 [fontname="Calibri",  fontsize=11, shape=circle, label="^"];
+7 [fontname="Calibri",  fontsize=11, shape=circle, label="7"];
+8 [fontname="Calibri",  fontsize=11, shape=circle, label="5"];
+0 -> 1 [ dir="none", fontname="Calibri",  fontsize=8];
+0 -> 3 [ dir="none", fontname="Calibri",  fontsize=8];
+1 -> 2 [ dir="none", fontname="Calibri",  fontsize=8];
+3 -> 4 [ dir="none", fontname="Calibri",  fontsize=8];
+3 -> 5 [ dir="none", fontname="Calibri",  fontsize=8];
+5 -> 6 [ dir="none", fontname="Calibri",  fontsize=8];
+6 -> 7 [ dir="none", fontname="Calibri",  fontsize=8];
+6 -> 8 [ dir="none", fontname="Calibri",  fontsize=8];
+}

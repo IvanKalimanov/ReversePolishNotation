@@ -1,0 +1,18 @@
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\bin\Debug\Reverse Polish Notation.exe.config
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\bin\Debug\Reverse Polish Notation.exe
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\bin\Debug\Reverse Polish Notation.pdb
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\obj\Debug\Reverse_Polish_Notation.Form1.resources
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\obj\Debug\Reverse_Polish_Notation.Properties.Resources.resources
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\obj\Debug\Reverse Polish Notation.csproj.GenerateResource.cache
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\obj\Debug\Reverse Polish Notation.exe
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\obj\Debug\Reverse Polish Notation.pdb
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\bin\Debug\QuickGraph.Data.dll
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\bin\Debug\QuickGraph.dll
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\bin\Debug\QuickGraph.xml
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\bin\Debug\QuickGraph.Data.xml
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\bin\Debug\QuickGraph.Serialization.xml
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\obj\Debug\Reverse Polish Notation.csproj.CopyComplete
+C:\Users\X1CARBON\source\repos\Reverse Polish Notation\obj\Debug\Reverse Polish Notation.csproj.CoreCompileInputs.cache
